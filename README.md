@@ -15,7 +15,7 @@ ESP32配合舵机实现远程物理按键开机
 Blinker (作者: blinker-iot)
 ESP32Servo
 
-##3. 程序代码
+## 3. 程序代码
 - 将代码中的 Your_Auth_Key、Your_WiFi_SSID 和 Your_WiFi_Password 替换为你自己的信息。
 共地：用杜邦线连接 WROOM 的 GND 和 CAM 的 GND（极其重要，否则信号无法传递）。
 触发线：将 WROOM 的 D22 连接到 CAM 的 D13。
