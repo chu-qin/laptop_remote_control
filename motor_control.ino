@@ -2,9 +2,9 @@
 #include <Blinker.h>
 #include <ESP32Servo.h>
 
-char auth[] = "b9ce166f9ec0";       // App 中获取的授权码
+char auth[] = "授权码";       // App 中获取的授权码
 char ssid[] = "你のWIFI";      // WiFi 名称
-char pswd[] = "zq219118";  // WiFi 密码
+char pswd[] = "password";  // WiFi 密码
 
 Servo myServo;
 const int servoPin = 21;    // 舵机引脚
