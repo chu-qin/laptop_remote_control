@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 
 const char* ssid = "你のWIFI";
-const char* password = "zq219118";
-const char* uid = "a1968cccbe91a383d152b01f0c5e921c"; 
+const char* password = "password";
+const char* uid = "uid"; 
 const char* topic = "monitor006"; 
 
 const int inputPin = 13; // 接收 WROOM 信号的引脚
